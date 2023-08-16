@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T15:08:23.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GH_Pu49yRC1Ga3ckGa4U" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T15:21:25.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="u3TFwed0GQNnN6qTSBEk" version="21.6.8" type="github">
   <diagram name="Page-1" id="vcV-yVb5MliYD7OHsdSn">
     <mxGraphModel dx="1434" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,16 +91,16 @@
           <mxGeometry x="-10" y="56.51" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H34V7Ri5q2Nj2kquJj98-26" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="460.40999999999997" y="75.25" width="122.78" height="110" as="geometry" />
+          <mxGeometry x="457.41" y="64.25" width="149.59" height="110" as="geometry" />
         </mxCell>
         <mxCell id="H34V7Ri5q2Nj2kquJj98-43" value="" style="group;fontSize=14;" parent="H34V7Ri5q2Nj2kquJj98-26" vertex="1" connectable="0">
-          <mxGeometry width="122.78" height="110" as="geometry" />
+          <mxGeometry width="149.59" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H34V7Ri5q2Nj2kquJj98-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;i&gt;Guppy Basecaller&lt;br&gt;version 6.1.2&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=13;" parent="H34V7Ri5q2Nj2kquJj98-43" vertex="1">
-          <mxGeometry width="122.78" height="60" as="geometry" />
+        <mxCell id="H34V7Ri5q2Nj2kquJj98-21" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;NextFLOW ONT&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=50;tabHeight=15;tabPosition=left;html=1;whiteSpace=wrap;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=13;" parent="H34V7Ri5q2Nj2kquJj98-43" vertex="1">
+          <mxGeometry y="10" width="149.59" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H34V7Ri5q2Nj2kquJj98-25" value="SUP" style="rounded=0;whiteSpace=wrap;html=1;" parent="H34V7Ri5q2Nj2kquJj98-43" vertex="1">
-          <mxGeometry y="59.995462663243664" width="122.78" height="24.654537336756334" as="geometry" />
+        <mxCell id="H34V7Ri5q2Nj2kquJj98-25" value="targeted_SMA_adaptive" style="rounded=0;whiteSpace=wrap;html=1;" parent="H34V7Ri5q2Nj2kquJj98-43" vertex="1">
+          <mxGeometry y="60" width="149.59" height="24.65" as="geometry" />
         </mxCell>
         <mxCell id="H34V7Ri5q2Nj2kquJj98-29" value="rebase calling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="357.54999999999995" y="98.74000000000001" width="90" height="30" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H34V7Ri5q2Nj2kquJj98-36" value="BAM file" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Roboto;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="473.04999999999995" y="215.25" width="97.5" height="30" as="geometry" />
+          <mxGeometry x="483.46" y="215.25" width="97.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H34V7Ri5q2Nj2kquJj98-40" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="238.81000000000006" y="205.25" width="82.38" height="74" as="geometry" />
